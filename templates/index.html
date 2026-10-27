@@ -1,0 +1,52 @@
+<html>
+<head>
+    <title>Hangman</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <main class="game-card">
+        <h1>HANGMAN</h1>
+        <p class="subtitle">Guess the word, one letter at a time.</p>
+
+        <div class="word">
+            {% for letter in display_letters %}
+                {% if letter == " " %}
+                    <span class="word-space"></span>
+                {% else %}
+                    <span class="tile">{{ letter }}</span>
+                {% endif %}
+            {% endfor %}
+        </div>
+
+        <div class="info-box">
+            <strong>Lives remaining</strong>
+            <p>{{ lives }}</p>
+        </div>
+
+        <div class="info-box">
+            <strong>Letters guessed</strong>
+            <p>{{ guessed_letters | join(", ") if guessed_letters else "None yet" }}</p>
+        </div>
+
+        <div class="message-box">
+            {{ message or "Good luck!" }}
+        </div>
+
+        {% if lives > 0 and "_" in spaces %}
+            <form method="POST">
+                <label for="guess">Your next letter</label>
+                <div class="guess-row">
+                    <input type="text" name="guess" id="guess"
+                        maxlength="1" pattern="[A-Za-z]" required>
+                    <button type="submit">GUESS</button>
+                </div>
+            </form>
+        {% else %}
+            <form action="/new-game" method="POST">
+                <button type="submit">PLAY AGAIN</button>
+            </form>
+        {% endif %}
+    </main>
+</body>
+</html>

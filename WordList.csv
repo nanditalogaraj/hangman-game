@@ -1,0 +1,290 @@
+﻿Algorithm
+Parameter
+Abstraction
+Representational Abstraction
+Abstraction by Generalisation
+Functional Abstraction
+Data Abstraction
+Information Hiding
+Problem Abstraction
+Automation
+Finite State Machine
+Accept State
+Rational Numbers
+Irriational Numbers
+Integers
+Natrual Numbers
+Ordinal Numbers
+Real Numbers
+Hexadacimal
+ASCII
+Unicode
+Kibibyte (KiB)
+Mebibyte (MiB)
+GibiByte (GiB)
+TebiByte (TiB)
+Majority voting
+Two's Compliment
+Fixed Point
+Bitmap
+Colour depth
+Resolution
+Metadata
+Vector graphics
+Pixel
+Sample Rate
+Sample Reolution
+Sampling
+Analogue to Digital (A2D)
+Digital to Analogue (D2A)
+Digitial to Analogue Converter (DAC)
+Analogue to Digital Converter (ADC)
+Analogue
+Nyquist's Theorem
+MIDI
+Lossless Compression
+Lossy Compression
+Run Length Encoding
+Dictionary-based compression
+Ceaser cipher
+Plaintext
+ciphertext
+Vernam cipher
+One-time pad
+System Software
+Utility Software
+Operating System
+Libraries
+Translators
+Application Software
+General-purpose software
+Special-purpose software
+Interrupt
+Machine Code
+Assembly language
+High-level programming language
+Low-level programming language
+Object Code
+Assembler
+Compiler
+Interpreter
+Bytecode
+NOT gate
+AND gate
+OR gate
+NAND gate
+NOR gate
+XOR gate
+De Morgan's law
+Associative
+Distributative
+Absorption
+Processor
+Main Memory / RAM
+Address Bus
+Control Bus
+Data Bus
+I/O Controllers
+Stored Program Concept
+von Neumann Architecture
+Harvard Architecture
+Arithmetic Logic Unit (ALU)
+Control Unit
+System Clock
+General-purpose registers
+Program Counter (PC)
+Current Instruction Register (CIR)
+Memory Address Register (MAR)
+Memory Buffer Register (MBR)
+Status Register (SR)
+Cache
+Cores
+Clock speed
+Word length
+Bus width
+Fetch-Decode-Execute Cycle
+Processor Instruction Set
+Addressing Mode
+Immediate Addressing
+Direct Addressing
+Opcode
+Operand
+Solid State Drive (SSD)
+Control Gate (SSD)
+Floating Gate (SSD)
+Word Line (SSD)
+Bit Line (SSD)
+Serial Communication
+Parallel Communication
+Skew
+Crosstalk
+Synchronous transmission
+Asynchronous transmission
+Protocol
+Bus topology
+Star topology
+MAC address
+Client-server
+Peer-to-peer
+Network Interface Card (NIC)
+Whitelist
+Serv ice Set Identifier (SSID)
+Carrier Sense Multiple Access/Collision Avoidance (CSMA/CA)
+CSMA.CA with RTS/CTS
+Hidden Node Problem
+encapsulation
+Queue
+circular queue
+priority queue
+Stack
+Stack Overflow
+Call stack
+Stack frame (for call stack)
+Graph
+Node (Graph)
+Edge (Graph)
+Weighted / Unweighted (Graph)
+Directed / Undirected (graph)
+Cyclic / Acyclic (graph)
+Adjacency matrix
+Adjacency list
+Tree
+Rooted (tree)
+Traversal
+Pre-order traversal
+In-order traversal
+Post-order traversal
+Binary search tree
+Vector
+Convex Vector combination
+Vector dot-product
+Recursion
+Return Address
+Big-O
+Time Complexity
+Constant time
+Linear time
+Polynomial time
+non-polynomial time
+Logarithmic Time
+Exponential Time
+Merge Sort
+Bubble Sort
+Space Complexity
+Depth-first
+Breadth-first
+Dijkstra's
+Heuristic
+Tractable / Intractable
+Computable / non-computable
+Halting Problem
+Regular language
+Mealy machine
+Subset
+Proper Subset
+Countable Set
+Set Membership
+Set Union
+Set Intersection
+Set Difference
+Regular Expression
+Automaton
+Turnig Machine
+Universal Turing Machine
+Backus-Naur-Form
+Truth Table
+Reverse Polish Notation
+Uniform Resource Locator
+Internet registry
+Domain Name
+Domain Name System (DNS)
+IP Address
+Fully Qualified Domain Name
+Router
+Gateway
+Firewall
+Symmetric Encryption
+Private Key
+Asymmetric Encryption
+Public Key
+DIgital Signature
+Digital Certificate
+Worm
+Trojan
+Virus
+TCP/IP
+Application Layer
+Transport Layer
+Internet Layer
+Link Layer
+Hypertext Transfer Protocol (HTTP)
+Hypertext Transfer Protocol Secure (HTTPS)
+File Transfer Protocol (FTP)
+Secure Shell (SSH)
+Simple Mail Transfer Protocol (SMTP)
+Post Office Protocol v3 (POP3)
+IPv4
+IPv6
+Subnet Mask
+Network Address Translator (NAT)
+Dynamic Host Configuration Protocol (DHCP)
+Port Forwarding
+Web Socket
+CRUD
+POST (CRUD)
+GET (CRUD)
+PUT (CRUD)
+DELETE (CRUD)
+Representational Statet Transfer (REST)
+JSON
+XML
+Primary Key
+Composite Primary Key
+Entity Relationship Diagram
+Relational Database
+Foreign Key
+Normalisation (database)
+First Normal Form
+Second Normal Form
+Third Normal Form
+Structured Query Language (SQL)
+SELECT Statement
+Declarative Language
+CREATE Statement
+UPDATE Statement
+INSERT INTO Statement
+Record lock
+Serialisation (of DB Updates)
+Timestamp Ordering
+Commitment Ordering
+Public (OOP)
+Private (OOP)
+Protected (OOP)
+Instantiation (OOP)
+Inheritance
+Aggregation (OOP)
+Composition (OOP)
+Polymorphism
+Overriding (OOP)
+Class Diagram
+Abstract Method
+Virtual Method
+Static Method
+Functional Programming
+Programming Paradigm
+Statelessness
+Immutable data type
+Big Data
+Fact-Based-Model
+Velocity (Big Data)
+Volume (Big Data)
+Variety (Big Data)
+Mantissa
+Exponent
+Normalisation (Floating point)
+Absolute Error
+Relative Error
+Half Adder
+Full Adder
+D-Type Flip Flop
+Edge Triggered
